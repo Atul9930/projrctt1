@@ -110,7 +110,7 @@ In this project , we have tried to make a perfect clone of redbus.in.
   
   ### Contributors:
 
-  * Nitansh Rastogi
+  * atul
 
     * Github : [Atul9930](https://github.com/Atul9930/projrctt1)
 
